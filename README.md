@@ -32,6 +32,9 @@ This project analyzes coffee shop sales data collected between March 2024 and Ma
 | Feb-25 | 9,300       |
 | Mar-25 | 11,200      |
 
+<img width="590" height="513" alt="Monthly revenue Trend" src="https://github.com/user-attachments/assets/e2635c68-0d55-49dd-9a4a-384391541f4a" />
+
+
 **Product Performance**
 | Drink               | Orders | Revenue Share |
 | ------------------- | ------ | ------------- |
@@ -40,6 +43,9 @@ This project analyzes coffee shop sales data collected between March 2024 and Ma
 | Cappuccino          | 610    | 18%           |
 | Cortado             | 420    | 11%           |
 | Espresso            | 129    | 4%            |
+
+<img width="469" height="408" alt="revenue shared by drink" src="https://github.com/user-attachments/assets/3f1f712d-0921-4878-a0ba-967741e7ceeb" />
+
 
 
 **Demand Pattern Analysis**
@@ -54,3 +60,12 @@ Morning rush hours contribute significantly to sales volume
 | ------- | ------- | ----------------- |
 | Weekday | $84,000 | $420              |
 | Weekend | $28,246 | $560              |
+
+<img width="571" height="455" alt="hourly order volume and highlight" src="https://github.com/user-attachments/assets/027de682-db6a-4161-bd53-3c9290ab6215" />
+
+
+<img width="1049" height="546" alt="revenue heatmap" src="https://github.com/user-attachments/assets/fbf1f913-903c-4711-8315-00919086c8b2" />
+
+<img width="1240" height="244" alt="daily revenue and 7 day rolling" src="https://github.com/user-attachments/assets/abaebce1-64d9-4e33-9a15-faba34af4c2c" />
+
+<img width="1157" height="529" alt="5day and 7day rolling" src="https://github.com/user-attachments/assets/3bfd35aa-3aa7-4565-9818-8e858ca1703c" />
